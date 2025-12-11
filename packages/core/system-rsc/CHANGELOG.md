@@ -1,5 +1,13 @@
 # @heroui/system-rsc
 
+## 2.3.21
+
+### Patch Changes
+
+- [#5895](https://github.com/heroui-inc/heroui/pull/5895) [`a37912e`](https://github.com/heroui-inc/heroui/commit/a37912e17f00cb2e8f11c012b1b412e4152e791a) Thanks [@deepansh946](https://github.com/deepansh946)! - override with slots (#5785)
+
+- [#5930](https://github.com/heroui-inc/heroui/pull/5930) [`ecf2857`](https://github.com/heroui-inc/heroui/commit/ecf2857c90824409088130d12747fef3d47d9e99) Thanks [@wingkwong](https://github.com/wingkwong)! - bump tailwind-variants & tailwind-merge and use latest tv functions
+
 ## 2.3.20
 
 ### Patch Changes
